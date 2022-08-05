@@ -114,12 +114,12 @@ https://2de37k8n82x3uv00-70hw13l5z.hop.clickbank.net
       <div class="column index-column index-column-2 mr-3"></div>
       <div class="column is-11">
         <p class="has-text-weight-bold has-text-danger lh1 mb-2">July 2022 - New Scientific Discovery</p>
-        <p class="title is-size-1-desktop is-size-2-tablet is-size-3-mobile is-capitalized lh1 mb-2">Scientists Discover The Real Root-Cause of Your Belly Fat</p>
-        <p class="has-text-grey-dark is-size-3 is-size-4-mobile mb-5">(<strong>Hint</strong> Not Diet or Exercise)</p>
-        <p>Are you struggling to lose weight no matter how much you diet or exercise? Turns out, <strong>it's not your fault</strong>.</p>
-        <p>A 2022 study published in Nature Medicine of 52,000 women and men, the largest of its kind in humans, found just one common factor in every overweight man and woman. <strong>Low brown adipose tissue levels</strong>! They also found common in every skinny person were high brown adipose tissue levels.<sup>1</sup></p>
-        <p>Brown adipose tissue (BAT) also know as brown fat, is not fat at all. Its not a fat storer but a <strong>fat shrinker</strong>. Its brown color comes from its densely packed mitochondria which work 24/7 to <strong>burn calories</strong> from your fat stores and the food you eat into pure, natural energy.</p>
-        <p>Even though BAT makes up a fraction of your weight, it can burn up to <strong>300 times</strong> more calories than any other cell in your body!<sup>2</sup></p>
+        <p class="title is-size-1-desktop is-size-2-tablet is-size-3-mobile is-capitalized lh1 mb-2">Scientists Discover The Real Root-Cause of Your</p>
+        <p class="has-text-grey-dark is-size-3 is-size-4-mobile mb-5">(<strong>Hint</strong> Exercise)</p>
+        <p>Are you struggling no matter how much you exercise? Turns out, <strong>it's not your fault</strong>.</p>
+        <p>A 2022 study published in Nature Medicine of 52,000 women and men, the largest of its kind in humans, found just one common factor in every man and woman. <strong></strong>! They also found common in every person.<sup>1</sup></p>
+        <p>Brown (BAT) also know as, is not at all. Its not a but a <strong>shrinker</strong>. Its brown color comes from its densely packed which work 24/7 to <strong></strong> from your and the food you eat into pure, natural energy.</p>
+        <p>Even though makes up a fraction of your , it can up to <strong>300 times</strong> more than any other cell in you!<sup>2</sup></p>
         <p class="is-size-6 has-text-grey lh1 is-size-7-mobile"><em>References:<br>
         1.https://www.nature.com/articles/s41591-020-1126-7<br>
         2.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2768171/</em></p>
@@ -127,6 +127,26 @@ https://2de37k8n82x3uv00-70hw13l5z.hop.clickbank.net
     </div>
   </div>
 </section>
+  
+  <h1>Disclaimer for kotaexipure</h1>
+
+<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at funnybromyl@gmail.com. Our Disclaimer was generated with the help of the <a href="https://www.disclaimergenerator.net/">Free Disclaimer Generator</a>.</p>
+
+<h2>Disclaimers for kotaexipure</h2>
+
+<p>All the information on this website - https://kotaexipure-wok.herokuapp.com/ - is published in good faith and for general information purpose only. kotaexipure does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (kotaexipure), is strictly at your own risk. kotaexipure will not be liable for any losses and/or damages in connection with the use of our website.</p>
+
+<p>From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
+
+<p>Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their "Terms of Service" before engaging in any business or uploading any information.</p>
+
+<h2>Consent</h2>
+
+<p>By using our website, you hereby consent to our disclaimer and agree to its terms.</p>
+
+<h2>Update</h2>
+
+<p>Should we update, amend or make any changes to this document, those changes will be prominently posted here.</p>
 
 
 <!-- Van Image-->
