@@ -130,8 +130,6 @@ https://2de37k8n82x3uv00-70hw13l5z.hop.clickbank.net
   
   <h1>Disclaimer for kotaexipure</h1>
 
-<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at funnybromyl@gmail.com. Our Disclaimer was generated with the help of the <a href="https://www.disclaimergenerator.net/">Free Disclaimer Generator</a>.</p>
-
 <h2>Disclaimers for kotaexipure</h2>
 
 <p>All the information on this website - https://kotaexipure-wok.herokuapp.com/ - is published in good faith and for general information purpose only. kotaexipure does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (kotaexipure), is strictly at your own risk. kotaexipure will not be liable for any losses and/or damages in connection with the use of our website.</p>
