@@ -121,6 +121,7 @@
   </div>
 </section>
   
+  <div class="container container-limit px-2 py-5">
   <h1>Disclaimer for kotaexipure</h1>
 
 <h2>Disclaimers for kotaexipure</h2>
@@ -138,7 +139,7 @@
 <h2>Update</h2>
 
 <p>Should we update, amend or make any changes to this document, those changes will be prominently posted here.</p>
-
+ </div>
 
 <!-- Van Image-->
 <section class="section is-paddingless banner-background white-text">
