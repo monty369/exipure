@@ -103,7 +103,7 @@ https://2de37k8n82x3uv00-70hw13l5z.hop.clickbank.net
 <section style="text-align: center;">  
   <div>
       <p>Click the button below to get more information and get a disccounted offer!</p>
-      <button class="button btn" onclick="window.location.href='https://2de37k8n82x3uv00-70hw13l5z.hop.clickbank.net';">Click Here!</button> 
+      <button class="button btn" onclick="window.location.href='#';">Click Here!</button> 
   </div>
 </section>
 
