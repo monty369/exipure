@@ -1,10 +1,3 @@
-<!-- Affiliate link
-https://exipure.com/affiliates/
-
-Click bank
-https://2de37k8n82x3uv00-70hw13l5z.hop.clickbank.net
--->
-
 <!DOCTYPE html>
 <html>
 <head>
